@@ -1,18 +1,8 @@
-# VesterLy gæsteguide
+# VesterLy flot version
 
-Færdig Vite/React demo-app til VesterLy.
+Upload alle filer i denne mappe til dit GitHub repository.
 
-## Deploy på Vercel
-
-1. Upload denne mappe til et nyt GitHub repository.
-2. Gå til https://vercel.com/new
-3. Vælg repository.
-4. Framework preset: Vite
-5. Build command: npm run build
-6. Output directory: dist
-7. Tryk Deploy.
-
-## Lokal test
-
-npm install
-npm run dev
+Vercel settings:
+- Framework: Vite
+- Build command: npm run build
+- Output directory: dist
